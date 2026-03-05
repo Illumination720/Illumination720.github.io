@@ -50,6 +50,12 @@ p {line-height: 1.5em;}
 .texture-generate-img {display: block; float: none; width: 648x; height: 617px; background-position: center; background-size: contain; background-repeat: no-repeat;}
 .vfx-img0 {display: block; float: none; width: 859x; height: 450px; background-position: center; background-size: contain; background-repeat: no-repeat;}
 .vfx-img1 {display: block; float: none; width: 859x; height: 450px; background-position: center; background-size: contain; background-repeat: no-repeat;}
+.qwen-img-edit-cos-input0 {display: block; float: none; width: 859x; height: 450px; background-position: center; background-size: contain; background-repeat: no-repeat;}
+.qwen-img-edit-cos-input1 {display: block; float: none; width: 859x; height: 450px; background-position: center; background-size: contain; background-repeat: no-repeat;}
+.qwen-img-edit-cos-output0 {display: block; float: none; width: 859x; height: 450px; background-position: center; background-size: contain; background-repeat: no-repeat;}
+.printer-3D-YM-0 {display: block; float: none; width: 859x; height: 450px; background-position: center; background-size: contain; background-repeat: no-repeat;}
+.printer-3D-YM-1 {display: block; float: none; width: 859x; height: 450px; background-position: center; background-size: contain; background-repeat: no-repeat;}
+
 
 .row-text {display: block; float: left; margin-left: 12px; line-height: 1.5em; max-width: 598px;}
 .row-text span {line-height: inherit;}
